@@ -5,5 +5,6 @@ Git is free software distributed under the GPL.
  Git has a  mutable index called stage.
  Git tracks changes
  Creating a new breach is quick And Simple.
- Yangshuo I Like you
+ Yangshuo I Like you ----
+ Git is a free software
 
